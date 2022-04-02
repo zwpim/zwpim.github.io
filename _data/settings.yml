@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 全新 <b>ZWPD 3.6</b> 发布 <br> 全生命周期三维解决方案 <br> 设计 施工 交付 运维 的一体化平台 <br> 数据级多专业协同 <br> 高效 <br> 易用
+  hero-title: <b>ZWPD 3.0</b> <br/> <font size="-2">全生命周期三维解决方案</font> <br/> <font size="-2">设计 施工 交付 运维 的一体化平台</font> <br/> <font size="-2">数据级多专业协同</font> <br/> <font size="-2">高效  易用</font>
 
 social:
 # - {icon: "ti-facebook", link: "#"}
