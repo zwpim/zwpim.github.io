@@ -1,0 +1,20 @@
+---
+layout: post
+title:  ZWPD3.6 正式发布
+date:   2022-03-15 12:00:00 +0300
+image:  /assets/images/blog/zwpd3_6.png
+author: 中维数通
+tags:   ZWPD3.6
+---
+
+**ZWPD3.0系列产品最新版本3.6正式发布.**
+
+# 新功能
+## 全新PID产品
+
+## 图纸目录
+
+# 功能改进
+
+# 重要Bug修复
+

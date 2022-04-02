@@ -11,10 +11,10 @@ address: 北京市昌平区回龙观科星西路19号院中顺大厦8层
 copyright: Copyright &copy; 北京中维数通软件有限公司 2022. [京ICP备18001418号](https://beian.miit.gov.cn/). <BR> Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: 关于我们, link: '/about'}
+- {name: 最新动态, link: '/blog'}
+- {name: 项目案例, link: '/portfolio'}
+- {name: 联系我们, link: '/contact'}
 
 
 #-------------------------------
@@ -31,7 +31,7 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: 中维数通 # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -61,38 +61,38 @@ blurb-btn-name: 了解更多
 # About Page
 
 # Work Process Section
+# 现在用于 我们的目标
 work-process:
-  - title : "Research and Plan"
+  - title : "更专业"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "覆盖用户的全部使用要求."
     
-  - title : "Design and Develop"
+  - title : "更全面"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "覆盖所有流程."
     
-  - title : "Deliver"
+  - title : "更稳定"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "更高的产品质量、更精密的计算."
 
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
+  - title : "魏洪春"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "CEO, 创始人"
 
+  - title : "许博"
+    image : "assets/images/team/member-1.png"
+    designation : "CTO"
+    
+  - title : "黄少华"
+    image : "assets/images/team/member-2.png"
+    designation : "CSO"
 
 #-------------------------------
 # Skills Section
-
+# 现用于 行业覆盖
 skills-title: 行业覆盖
 skills:
 - {name: 石油, color: '#fdb157', value: '90%'}
@@ -104,7 +104,7 @@ skills:
 
 #-------------------------------
 # Exprerience Section
-
+# 现用于 产品系列
 experience-title: 产品系列
 experience:
 - {name: ZWPD3.0, icon: 'icon-1.png', date: '2020年5月 - 至今', organization: '最新版本 3.6.2'}
@@ -114,7 +114,7 @@ experience:
 
 #-------------------------------
 # Education Section
-
+# 现用于 发展历程
 education-title: 发展历程
 education:
 - {name: 同辽宁石油大学开展校企合作, date: '2020.09', organization: '辽宁'}
@@ -156,6 +156,7 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+# 现用于 用户案例
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
@@ -174,6 +175,7 @@ portfolio-home-items:
 
 
 # Portfolio Page
+# 现用于 案例页
 portfolio-label:
 - {
     title : "UI/UX Design",
@@ -241,7 +243,7 @@ portfolio-items:
 
 #-------------------------------
 # Testimonials Section
-
+# 现用于 用户评价
 testimonial-items:
   - name: "用户A"
     image: "assets/images/testimonial/client-1.png"
@@ -250,7 +252,7 @@ testimonial-items:
 
 #-------------------------------
 # Client Slider Section
-
+# 现用于合作伙伴
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "#"
