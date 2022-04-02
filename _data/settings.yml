@@ -62,6 +62,7 @@ blurb-btn-name: 了解更多
 
 # Work Process Section
 # 现在用于 我们的目标
+work-process-title: 我们的目标
 work-process:
   - title : "更专业"
     icon : "assets/images/icons/plan.png"
@@ -77,6 +78,7 @@ work-process:
 
 
 # My Team Section
+team-title: 我们的团队
 team:
   - title : "魏洪春"
     image : "assets/images/team/member-3.png"
@@ -244,6 +246,7 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 # 现用于 用户评价
+testimonial-title: 用户评价
 testimonial-items:
   - name: "用户A"
     image: "assets/images/testimonial/client-1.png"

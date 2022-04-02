@@ -3,7 +3,7 @@ layout: about
 title: 关于我们
 author: 中维数通
 image: assets/images/about/author.png
-signature: #assets/images/about/signature.png
+signature: assets/images/about/signature.png
 ---
 
 北京中维数通软件有限公司建立于2011年10月24日，是以匠人精神打造优质产品、提炼金牌品质，为客户提供软件及全方位细节服务的三维软件公司。
