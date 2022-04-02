@@ -8,7 +8,7 @@ description: 北京中维数通软件有限公司官网
 email: zwst@zwpim.com
 phone: +086 137 1613 0998
 address: 北京市昌平区回龙观科星西路19号院中顺大厦8层
-copyright: Copyright &copy; 北京中维数通软件有限公司 2022. 京ICP备18001418号. Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 北京中维数通软件有限公司 2022. [京ICP备18001418号](https://beian.miit.gov.cn/). Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
