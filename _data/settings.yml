@@ -243,21 +243,10 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "魏洪春"
+  - name: "用户A"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, 创始人"
-    content : "专注工业设计软件20余载."
-    
-  - name: "许博"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CTO, 联合创始人"
-    content: "专注三维软件开发15年，已带领团队完成30余款工业软件的设计与开发。"
-    
-  - name: "黄少华"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CSO, 联合创始人"
-    content: ""
-
+    designation : "CEO, 石油设计院"
+    content : "专业."
 
 #-------------------------------
 # Client Slider Section
