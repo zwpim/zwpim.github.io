@@ -46,6 +46,10 @@ social:
 # - {icon: "ti-dribbble", link: "#"}
 # - {icon: "ti-twitter", link: "#"}
 
+#-------------------------------
+# Blog
+blog: 最新动态 #Blog
+
 
 #-------------------------------
 # About (Section and Page)
@@ -81,15 +85,15 @@ work-process:
 team-title: 我们的团队
 team:
   - title : "魏洪春"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/whc.png"
     designation : "CEO, 创始人"
 
   - title : "许博"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/team/xb.png"
     designation : "CTO"
     
   - title : "黄少华"
-    image : "assets/images/team/member-2.png"
+    image : "assets/images/team/hsh.png"
     designation : "CSO"
 
 #-------------------------------
@@ -159,6 +163,7 @@ services:
 
 # Portfolio Home Section
 # 现用于 用户案例
+portfolio-title: 用户案例
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
