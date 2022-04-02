@@ -7,8 +7,8 @@
       </div>
       <div class="col-lg-8 mx-auto">
         <div class="bg-white rounded text-center p-5 shadow-down">
-          <h4 class="mb-80">Contact Form</h4>
-          <form action="mailto:/{{ site.data.settings.contact-email }}" method="POST" class="row">
+          <h4 class="mb-80">您的信息</h4>
+          <form action="mailto:{{ site.data.settings.contact-email }}" method="POST" class="row">
             <div class="col-md-6">
               <input type="text" id="name" name="name" placeholder="姓名" class="form-control px-0 mb-4">
             </div>
@@ -20,7 +20,7 @@
                 placeholder="在这里输入信息"></textarea>
             </div>
             <div class="col-lg-6 col-10 mx-auto">
-              <button type="submit" class="btn btn-primary w-100">send</button>
+              <button type="submit" class="btn btn-primary w-100">发送</button>
             </div>
           </form>
         </div>
