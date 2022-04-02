@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: <b>ZWPD 3.0</b> <br/> <font size="-2">全生命周期三维解决方案</font> <br/> <font size="-2">设计 施工 交付 运维 的一体化平台</font> <br/> <font size="-2">数据级多专业协同</font> <br/> <font size="-2">高效  易用</font>
+  hero-title: <b>ZWPD 3.0</b> <br/> <font size="-1">全生命周期三维解决方案</font> <br/> <font size="-1">设计 施工 交付 运维 的一体化平台</font> <br/> <font size="-1">数据级多专业协同</font> <br/> <font size="-1">高效  易用</font>
 
 social:
 # - {icon: "ti-facebook", link: "#"}
@@ -52,10 +52,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+   <font size="+1">北京中维数通软件有限公司</font> <br/> 成立于2011年10月24日。 我们用匠人精神打造优质产品、提炼金牌品质，为客户提供软件及全方位细节服务。 我们所打主要产品ZWPD-V2.0系列及V3.0系列。
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: 了解更多
 
 
 # About Page
@@ -93,56 +93,60 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: 行业覆盖
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: 石油, color: '#fdb157', value: '90%'}
+- {name: 化工, color: '#9473e6', value: '90%'}
+- {name: 电力, color: '#bdecf6', value: '50%'}
+- {name: 冶金, color: '#ffbcaa', value: '70%'}
+- {name: 建筑, color: '#AAFFC3', value: '70%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 产品系列
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: ZWPD3.0, icon: 'icon-1.png', date: '2020年5月 - 至今', organization: '最新版本 3.6.2'}
+- {name: ZWPD2.0, icon: 'icon-2.png', date: '2019年8月 - 至今', organization: '最新版本 2.10.3'}
+- {name: ZWPD1.0, icon: 'icon-3.png', date: '2016年5月 - 2019年8月', organization: '最新岸本 1.2'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: 发展历程
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: 同辽宁石油大学开展校企合作, date: '2020.09', organization: '辽宁'}
+- {name: 同齐齐哈尔大学开展校企合作, date: '2020.09', organization: '黑龙江'}
+- {name: 发布3.0正式版, date: '2020.05', organization: '实现云协作，轻量化多人多专业协同工作.北京'}
+- {name: 同燕郊理工大学开展校企合作, date: '2019.12', organization: '河北'}
+- {name: 发布ZWPD施工管理软件V1.0, date: '2019.12', organization: '北京'}
+- {name: 发布START应力分析软件V1.0, date: '2019.12', organization: '北京'}
+- {name: 发布START应力分析软件V1.0, date: '2019.12', organization: '北京'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: 主营业务
 services:
 - {
-    name: UI Design,
+    name: 软件研发,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '30人专业研发团队，专注工业软件研发。',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: 工程设计,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '15位工程师，专注石油化工、建筑、电力设计。',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: 技术支持,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '20位专业技术服务人员，提供最优质的售前、售后及培训服务。',
     active: # Add true to select section
   }
 
