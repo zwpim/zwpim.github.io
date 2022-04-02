@@ -265,6 +265,7 @@ testimonial-items:
 #-------------------------------
 # Client Slider Section
 # 现用于合作伙伴
+client-title: 合作伙伴
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "#"
