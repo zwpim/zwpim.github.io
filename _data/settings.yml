@@ -38,7 +38,7 @@ disqus-identifier: 中维数通 # Add your shortname for Disqus Comment. For exa
 # Hero Section
 
 hero:
-  hero-title: <b>ZWPD 3.0</b> <br/> <font size="-1">全生命周期三维解决方案</font> <br/> <font size="-1">设计 施工 交付 运维 的一体化平台</font> <br/> <font size="-1">数据级多专业协同</font> <br/> <font size="-1">高效  易用</font>
+  hero-title: <b>ZWPD 3.0</b> <br/> <font size="1">全生命周期三维解决方案</font> <br/> <font size="2">设计 施工 交付 运维 的一体化平台</font> <br/> <font size="3">数据级多专业协同</font> <br/> <font size="4">高效  易用</font>
 
 social:
 # - {icon: "ti-facebook", link: "#"}
@@ -60,7 +60,7 @@ blog: 最新动态 #Blog
 
 # About Section
 blurb:
-   <font size="+1">北京中维数通软件有限公司</font> <br/> 成立于2011年10月24日。 我们用匠人精神打造优质产品、提炼金牌品质，为客户提供软件及全方位细节服务。 我们所打主要产品ZWPD-V2.0系列及V3.0系列。
+   <font size="1">北京中维数通软件有限公司</font> <br/> 成立于2011年10月24日。 我们用匠人精神打造优质产品、提炼金牌品质，为客户提供软件及全方位细节服务。 我们所打主要产品ZWPD-V2.0系列及V3.0系列。
 
 blurb-btn-link: '/about'
 blurb-btn-name: 了解更多
